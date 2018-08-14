@@ -6,7 +6,7 @@
 	background: url("images/street.png"), -o-linear-gradient(to right, #77C9D4, #57BC90);
 	background: url("images/street.png"), -moz-linear-gradient(to right, #77C9D4, #57BC90);
 	background: url("images/street.png"), linear-gradient(to right, #77C9D4, #57BC90);
-	font-family: "Montserrat", Garamond, sans-serif;
+	font-family: "Roboto", Garamond, sans-serif;
 	text-align: center;
 }
 
