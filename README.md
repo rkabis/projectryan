@@ -1,2 +1,2 @@
-# projectryan
+# Project Ryan
 Personal website
