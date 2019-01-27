@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 import Home from './Home/Home.container'
+import About from './About/About.screen'
 
 class Containers extends Component {
   render () {
@@ -9,6 +10,7 @@ class Containers extends Component {
       <BrowserRouter>
         <Switch>
           <Route exact path="/" render={() => <Home />} />
+          <Route exact path="/about" render={() => <About />} />
         </Switch>
       </BrowserRouter>
     )
